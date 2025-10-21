@@ -1,0 +1,1 @@
+Na Aula de desenvolvimento web de hoje no laboratório de TI, aprendemos como fazer o primeiro commit no GitHub usando comandos como git init, git add ., git branch, git push main e etc e após uma segunda atividade que é subir outro commit pro git com o relatório dessa aula 
